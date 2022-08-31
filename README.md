@@ -25,7 +25,7 @@
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
   
-  🎓 Systems Development Technician at COTIL</a> 
-  🎓 Graduated in Computer Engineering at UNICAMP
+  ##🎓 Systems Development Technician at COTIL
+  ##🎓 Graduated in Computer Engineering at UNICAMP
  
 </div>
