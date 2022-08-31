@@ -1,4 +1,4 @@
-## Oiii Maria Fernanda Moura, criadora de conteúdo de programação e tecnologia!
+## I'm a Brazilian Full Stack systems developer. I like to explore all the processes and possibilities of an application, but my focus at the moment is Front-End.
 <div align="center">
   <a href="https://github.com/rafaballerini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
