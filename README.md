@@ -1,6 +1,8 @@
 ## I'm a Brazilian Full Stack systems developer. I like to explore all the processes and possibilities of an application, but my focus at the moment is Front-End.
+  
+  <img src="https://github.com/mafermoura/mariafernandamoura/blob/a182700163ccf27373bb75f3112cd15a40efd79f/p1.png"/>
   <img src="https://github.com/mafermoura/mariafernandamoura/blob/74cfebeb31dad20c54fbb59e02ded932b08bef7c/p4.png"/>
-
+ 
 </div>
 <div style="display: inline_block"><br>
 
