@@ -9,7 +9,8 @@
 
 </div>
 
- 🎓 Graduated in Computer Engineering at UNICAMP (2025 - 2030) | Systems Development Technician at COTIL (2022 - 2024)
+ 🎓 ACADEMIC EDUCATION: 
+    Graduated in Computer Engineering at UNICAMP (2025 - 2030) | Systems Development Technician at COTIL (2022 - 2024)
 
 <div> 
   <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
