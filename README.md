@@ -2,6 +2,7 @@
   
   <img height="300" width="300" src="https://github.com/mafermoura/mariafernandamoura/blob/a182700163ccf27373bb75f3112cd15a40efd79f/p1.png"/>
   <img height="300" width="300" src="https://github.com/mafermoura/mariafernandamoura/blob/31a190b66cf55394239a03f30d4857402f43bb08/p2.png"/>
+  <img height="300" width="300" src="https://github.com/mafermoura/mariafernandamoura/blob/94914e94737e0f26f11509e9f4161c5177f03f44/p3.png"/>
   <img src="https://github.com/mafermoura/mariafernandamoura/blob/74cfebeb31dad20c54fbb59e02ded932b08bef7c/p4.png">
  
 </div>
