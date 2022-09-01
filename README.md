@@ -1,5 +1,5 @@
 ## I'm a Brazilian Full Stack systems developer. I like to explore all the processes and possibilities of an application, but my focus at the moment is Front-End.
-  <img height="180em" src="https://drive.google.com/file/d/1wnu0REWSvzSpL8L67xqQf0hiykEBq-F9/view?usp=sharing"/>
+  <img height="180em" src="https://drive.google.com/file/d/1EitiiTHE2LOmLasDRu3yC_0rcp6KYi01/view?usp=sharing"/>
 
 </div>
 <div style="display: inline_block"><br>
