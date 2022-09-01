@@ -1,7 +1,7 @@
 ## I'm a Brazilian Full Stack systems developer. I like to explore all the processes and possibilities of an application, but my focus at the moment is Front-End.
   
   <img height="300" width="300" src="https://github.com/mafermoura/mariafernandamoura/blob/a182700163ccf27373bb75f3112cd15a40efd79f/p1.png"/>
-  <img height="300" width="300" src="https://github.com/mafermoura/mariafernandamoura/blob/31a190b66cf55394239a03f30d4857402f43bb08/p2.png">
+  <img height="300" width="300" src="https://github.com/mafermoura/mariafernandamoura/blob/31a190b66cf55394239a03f30d4857402f43bb08/p2.png"/>
   <img src="https://github.com/mafermoura/mariafernandamoura/blob/74cfebeb31dad20c54fbb59e02ded932b08bef7c/p4.png">
  
 </div>
