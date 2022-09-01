@@ -8,7 +8,7 @@
 
 
 </div>
-
+  <img src="https://github.com/mafermoura/mariafernandamoura/blob/55c69c0b51f70ea9be1e154d14645ebaf8c7b0cd/P6.png">
 <div> 
   <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
